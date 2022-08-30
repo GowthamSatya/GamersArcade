@@ -1,0 +1,6 @@
+export {default as Navbar} from "./Navbar"
+export {default as Footer} from "./Footer"
+export {default as ItemCard} from "./ItemCard"
+export {default as ItemsBox} from "./ItemsBox"
+export {default as ItemPage} from "./ItemPage"
+export {default as Offers} from "./OffersBox"
